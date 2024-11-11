@@ -30,8 +30,8 @@ Before running the game, ensure you have the following:
     Open your terminal or command prompt and run the following command:
 
     ```bash
-    git clone https://github.com/yourusername/space-invaders-game.git
-    cd space-invaders-game
+    git clone https://github.com/RuaAwaysa/Space_Invaders_Game_python-.git
+    cd Space_Invaders_Game_python-
     ```
 
 2. **Install the required dependencies:**
