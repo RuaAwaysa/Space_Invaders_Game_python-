@@ -8,9 +8,6 @@ A simple **Space Invaders** game built with Python and Pygame where you control 
 - [Installation Instructions](#installation-instructions)
 - [Running the Game](#running-the-game)
 - [Features](#features)
-- [Video Demonstration](#video-demonstration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## How to Play
 
@@ -74,25 +71,6 @@ Once the game starts, follow these controls:
 - Multiple alien enemies that shoot at random intervals.
 - Score tracking for each alien destroyed.
 - Game Over screen when you lose.
-
-## Video Demonstration
-
-Here's a short video showing the gameplay:
-
-[Gameplay Video](your-video-link)
-
-## Contributing
-
-If you'd like to contribute to this game:
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a Pull Request.
-
-Any suggestions and contributions are welcome!
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
